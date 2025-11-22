@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Environnement virtuel
+venv/
+.env
+
+# Base de données locale
+db.sqlite3
+
+# Fichiers de logs
+*.log
+
+# Fichiers IDE / éditeur
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Fichiers binaires
+*.whl
+*.tar.gz
+
+# Static et media (optionnel, si tu ne veux pas les suivre)
+static/
+media/
